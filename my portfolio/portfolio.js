@@ -11,7 +11,7 @@ let navigR = navRight.style.display ="none";
 
 btn.onclick = function(){
     if(navRight.style.left ==="-100%" && navRight.style.display === "none"){
-        navRight.style.left = "50%";
+        navRight.style.left = "30%";
         navRight.style.display = "flex";
         btn.src = "Images folder/icon-close.svg";
     }
