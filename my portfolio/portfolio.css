@@ -66,11 +66,11 @@ header>nav,ul,li,label,#navTab{
 
 #navRight{
     color: white;
-    display:none;
     flex-direction: column;
+    display:none;
     text-align:left;
     position: fixed;
-    inset: 0% 0% 0% 10%;;
+    inset: 0% 0% 0% 30%;;
     background:rgba(0,0,0,1.2);
     flex-direction:column ;
     font-weight: 600;
@@ -408,7 +408,7 @@ header>nav,ul,li,label,#navTab{
 }
 
 .projectGrid5{
-    background: url(Images\ folder/delicious.png);
+    background: url(Images\ folder/image-restaurant.jpg);
 }
 
 
